@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HealthyPets</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="buttonAM">Поиск на карте</string>
+    <string name="buttonDo">Доска объявлений</string>
+    <string name="buttonTB">"Домашние животные"</string>
+    <string name="buttonOR">О разработчиках</string>
+</resources>

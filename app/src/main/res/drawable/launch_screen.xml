@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@android:color/white"/>
+
+    <!-- Лого приложения - 144dp версия иконки приложения -->
+    <item>
+
+        <bitmap
+            android:src="@drawable/papug"
+            android:gravity="center"/>
+
+    </item>
+</layer-list>
